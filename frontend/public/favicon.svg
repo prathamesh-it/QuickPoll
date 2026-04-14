@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="QuickPoll spiral logo">
+	<rect width="256" height="256" fill="#ffffff"/>
+	<path
+		d="M166 36 C121 24, 76 48, 56 88 C38 125, 50 166, 84 190 C116 212, 160 210, 190 180 C216 154, 222 114, 205 84 C188 56, 156 41, 127 44 C98 47, 75 66, 65 89 C56 112, 62 138, 82 154 C102 170, 129 172, 149 160 C167 149, 176 129, 173 111 C170 94, 157 80, 141 75 C127 70, 112 72, 101 81"
+		fill="none"
+		stroke="#27b0de"
+		stroke-width="24"
+		stroke-linecap="round"
+		stroke-linejoin="round"
+	/>
+	<path
+		d="M136 28 C89 29, 50 62, 38 108 C27 152, 48 195, 86 218"
+		fill="none"
+		stroke="#8a86df"
+		stroke-width="16"
+		stroke-linecap="round"
+		stroke-linejoin="round"
+	/>
+</svg>
